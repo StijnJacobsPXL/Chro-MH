@@ -1,0 +1,1 @@
+https://www.mousehuntgame.com/managers/ajax/mice/mouse_list.php?action=get_environment&category=halloween_event_location&user_id=6644682&display_mode=stats&view=ViewMouseListEnvironments&uh=969xy1xS
